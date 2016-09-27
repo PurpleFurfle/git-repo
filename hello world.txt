@@ -1,3 +1,4 @@
 print("Hello world!");
 print("Mr. Robot here!");
 print("hey guys");
+print("что по чем, дружище?");
